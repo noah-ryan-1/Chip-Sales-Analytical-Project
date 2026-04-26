@@ -1,4 +1,4 @@
-# 🚀 Chip Sales Analytical Project | Retail Insights Engine ( In Progress )
+# 🚀 Chip Sales Analytical Project | Retail Insights Engine
 <img width="906" height="573" alt="Figure 1 2" src="https://github.com/user-attachments/assets/84f21ad5-06da-4400-a76a-35ee11c646b7" />
 Figure 1.2: Demonstrates Customer Purchases of Chips in $AUD across different categories of customer and their customer type. 
 
